@@ -7,4 +7,4 @@ setInterval(function(){
             skipButton[0].click();
         }
 
-}, 0)
+}, 1000)
